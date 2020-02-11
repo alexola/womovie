@@ -14,3 +14,28 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+
+
+#movies img, 
+#movie img {
+  width:100%;
+}
+.bran-text {
+  font-size: 2rem;
+}
+#rocket-logo {
+  color: #15c5ea;
+}
+#imdb-logo {
+  color: #f5de50;
+}
+
+@media (min-width: 960px) {
+  #movies -col-md-3 .well {
+    height:390px;
+  }
+
+  #movies .col-md-3 img {
+    height:240px;
+  }
+}
