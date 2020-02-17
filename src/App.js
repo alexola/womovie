@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import {Provider} from 'react-redux';
+import {HashRouter as Router} from 'react-router-dom';
 import './App.css';
 
 import Navbar from './components/layout/Navbar';
@@ -13,9 +14,13 @@ class App extends Component {
   render(){
     return( 
       <Provider store={store}>
-          <Navbar /> 
-          <Landing />
-          <Footer /> 
+        <Router>
+          <div>
+            <Navbar /> 
+            <Landing />
+            <Footer /> 
+          </div>
+        </Router> 
       </Provider>    
       );
   }
