@@ -11,3 +11,50 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/*SEARCH BAR*/
+.search-box { 
+  background-color: #50d890;
+  border-radius: 3px;
+}
+
+.search-box h1 {
+    color:#effffb;
+}
+
+.search-box input {
+  border: none;
+  border-bottom: 2px solid #effffb ;
+  border-radius: 5px;
+}
+
+/*CARDS BASE COLOR*/
+
+.base-card {
+  box-shadow:10px 10px 5px rgb(190, 190, 190);
+  background-color: #272727;
+}
+
+.base-card button {
+  background-color : #4f98ca;
+  color:#effffb;
+}
+
+
+
+/*  MOVIE INFORMATION   */
+
+.card-poster {
+  box-shadow:10px 10px 5px rgba(190, 190, 190, 0.2);
+}
+
+.info-movie  strong{
+  color: #50d890;
+}
+
+.info-movie li {
+  background-color: #4f98ca;
+  color:#effffb;
+}
+

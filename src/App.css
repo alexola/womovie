@@ -1,4 +1,5 @@
 
+
 #movies img, 
 #movie img {
   width:100%;
@@ -12,6 +13,7 @@
 #imdb-logo {
   color: #f5de50;
 }
+
 
 @media (min-width: 960px) {
   #movies -col-md-3 .well {
