@@ -1,10 +1,16 @@
+## Woomovie
+
+This is a React app using React JS &amp; Redux JS integrated with external movies data API.
+[OMDb API ](http://www.omdbapi.com/) . To get familar with Redux JS . 
+It's bootstrapped so I could focuse on the main goal REDUX.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `yarn start`
+### `yarn dev`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
