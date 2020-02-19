@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/womovie/static/css/main.51a49779.chunk.css",
-    "main.js": "/womovie/static/js/main.d6411f31.chunk.js",
-    "main.js.map": "/womovie/static/js/main.d6411f31.chunk.js.map",
+    "main.css": "/womovie/static/css/main.de1c1535.chunk.css",
+    "main.js": "/womovie/static/js/main.277e52aa.chunk.js",
+    "main.js.map": "/womovie/static/js/main.277e52aa.chunk.js.map",
     "runtime-main.js": "/womovie/static/js/runtime-main.3870745b.js",
     "runtime-main.js.map": "/womovie/static/js/runtime-main.3870745b.js.map",
     "static/js/2.7a69a1b3.chunk.js": "/womovie/static/js/2.7a69a1b3.chunk.js",
     "static/js/2.7a69a1b3.chunk.js.map": "/womovie/static/js/2.7a69a1b3.chunk.js.map",
     "index.html": "/womovie/index.html",
-    "precache-manifest.2a04c35bb787b03be87604346b17461f.js": "/womovie/precache-manifest.2a04c35bb787b03be87604346b17461f.js",
+    "precache-manifest.649a24d7d66d12938a3a5957d565a109.js": "/womovie/precache-manifest.649a24d7d66d12938a3a5957d565a109.js",
     "service-worker.js": "/womovie/service-worker.js",
-    "static/css/main.51a49779.chunk.css.map": "/womovie/static/css/main.51a49779.chunk.css.map",
+    "static/css/main.de1c1535.chunk.css.map": "/womovie/static/css/main.de1c1535.chunk.css.map",
     "static/js/2.7a69a1b3.chunk.js.LICENSE.txt": "/womovie/static/js/2.7a69a1b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3870745b.js",
     "static/js/2.7a69a1b3.chunk.js",
-    "static/css/main.51a49779.chunk.css",
-    "static/js/main.d6411f31.chunk.js"
+    "static/css/main.de1c1535.chunk.css",
+    "static/js/main.277e52aa.chunk.js"
   ]
 }
